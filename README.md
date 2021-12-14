@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Seyed Ali Khalili  @imseyed
+- 👀 I’m interested in Datamining, IOT, ML & communication
+- I'm a **PHP/JavaScript/Python/C++** programmer
+- _But nothing is like_ **Data mining**
